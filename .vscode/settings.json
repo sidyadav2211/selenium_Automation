@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/sid/.local/share/virtualenvs/testing-Xb45agQD/bin/python",
+    "python.formatting.provider": "black"
+}
